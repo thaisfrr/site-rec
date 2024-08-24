@@ -1,12 +1,12 @@
 .cabecalho {
-    background-color: rgb(127, 224, 216);
+    background-color: rgb(140, 218, 211);
     color: black;
     display: flex;
     padding: 24px 0;
 }
 
 .section1 {
-    background-color: rgb(187, 108, 233);
+    background-color: rgb(191, 140, 236);
     padding: 100px;
 }
 
@@ -15,20 +15,18 @@
     padding: 100px;
 }
 
-.cabecalho-imagem{
+.cabecalho-imagem {
     width: 20%;
 }
 
-.cabecalho-imagem1{
+.cabecalho-imagem1 {
     width: 10%;
 }
 
-.cabecalho-imagem2{
+.cabecalho-imagem2 {
     width: 10%;
 }
 
-.rodape{
-    background-color: rgb(39, 20, 212);
+.rodape {
+    background-color: rgb(56, 52, 100);
 }
-
-
