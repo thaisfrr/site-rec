@@ -20,6 +20,11 @@
     padding: 100px;
 }
 
+.section4{
+    background-color: rgb(190, 140, 236);
+    padding: 100px;
+}
+
 .cabecalho-imagem {
     width: 30%;
 }
@@ -33,6 +38,10 @@
 }
 
 .cabelho-imagem3 {
+    width: 25%;
+}
+
+.cabecalho-imagem4 {
     width: 25%;
 }
 
