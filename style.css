@@ -1,3 +1,9 @@
+.corpodosite {
+    color: rgb(60, 0, 75);
+}
+
+
+
 .cabecalho {
     background-image: linear-gradient(rgb(124, 198, 216), rgb(191, 140, 236));
     color: black;
@@ -6,28 +12,33 @@
 }
 
 .section1 {
-    background-image: linear-gradient(rgb(191, 140, 236),rgb(192, 124, 201));
+    background-image: linear-gradient(rgb(191, 140, 236), rgb(192, 124, 201));
     padding: 100px;
+    font-size: larger;
 }
 
 .section2 {
-    background-image: linear-gradient(rgb(192, 124, 201));
+    background-image: linear-gradient(rgb(192, 124, 201), rgb(200, 144, 212));
     padding: 100px;
+    font-size: x-large;
 }
 
 .section3 {
-    background-color: rgb(190, 140, 236);
+    background-color: rgb(200, 144, 212);
     padding: 100px;
+    font-size: x-large;
 }
 
 .section4 {
-    background-color: rgb(190, 140, 236);
+    background-color: rgb(200, 144, 212);
     padding: 100px;
+    font-size: xx-large;
 }
 
 .section5 {
-    background-color: rgb(190, 140, 236);
+    background-color: rgb(200, 144, 212);
     padding: 100px;
+    font-size: xx-large;
 }
 
 .cabecalho-imagem {
@@ -55,5 +66,5 @@
 }
 
 .rodape {
-    background-color: rgb(11, 10, 22);
+    background-color: rgb(95, 1, 99);
 }
