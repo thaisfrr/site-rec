@@ -15,30 +15,35 @@
     background-image: linear-gradient(rgb(191, 140, 236), rgb(192, 124, 201));
     padding: 200px;
     font-size: larger;
+    text-align: center;
 }
 
 .section2 {
     background-image: linear-gradient(rgb(192, 124, 201), rgb(200, 144, 212));
     padding: 200px;
     font-size: x-large;
+    text-align: center;
 }
 
 .section3 {
     background-color: rgb(200, 144, 212);
     padding: 200px;
     font-size: x-large;
+    text-align: center;
 }
 
 .section4 {
     background-color: rgb(200, 144, 212);
     padding: 200px;
     font-size: xx-large;
+    text-align: center;
 }
 
 .section5 {
     background-color: rgb(200, 144, 212);
     padding: 200px;
     font-size: xx-large;
+    text-align: center;
 }
 
 .cabecalho-imagem {
@@ -67,4 +72,6 @@
 
 .rodape {
     background-color: rgb(95, 1, 99);
+    text-align: center;
+    font-size: x-large;
 }
